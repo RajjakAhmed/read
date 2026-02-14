@@ -52,6 +52,7 @@ A production-grade secure vault system inspired by enterprise security tools.
 ✅ JWT Authentication + per-user vault isolation  
 ✅ Expiring & OTP-protected share links  
 ✅ Team Vault collaboration with RBAC roles (working on it) 
+
 ✅ Audit Logs dashboard with IP + timestamp tracking  
 ✅ Deployed on Render + Vercel  
 
